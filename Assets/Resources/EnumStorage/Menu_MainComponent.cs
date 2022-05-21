@@ -1,0 +1,1 @@
+public enum Enum_Menu_MainComponent{ ButtonPanel, BTN_Start, BTN_OpenSettings, Panel_Income, Slot_1, TXT_Player_HighScore, Slot_2, TXT_Player_TotalCoin, Slot_3, TXT_Player_GemPremium, Slot_4, TXT_Player_GemNonPremium}
